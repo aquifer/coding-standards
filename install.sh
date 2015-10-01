@@ -8,3 +8,5 @@ cd $1
 npm install --save-dev gulp
 npm install --save-dev gulp-eslint
 npm install --save-dev gulp-jscs
+npm install --save-dev gulp-bump
+npm install --save-dev gulp-help
