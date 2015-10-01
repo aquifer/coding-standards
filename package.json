@@ -1,0 +1,22 @@
+{
+  "name": "coding-standards",
+  "version": "0.0.1",
+  "description": "Contains tools for enforcing coding standards and linting within Node.js projects.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aquifer/coding-standards.git"
+  },
+  "author": " <Patrick Coffey patrickcoffey48@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/aquifer/coding-standards/issues"
+  },
+  "homepage": "https://github.com/aquifer/coding-standards#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-bump": "^1.0.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-help": "^1.6.1",
+    "gulp-jscs": "^2.0.0"
+  }
+}
